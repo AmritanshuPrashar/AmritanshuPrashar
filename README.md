@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Web Developer from India.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Projects<br>👯 I’m looking to collaborate on projects that needs MERN, PERN stack developers<br>🌱 I’m currently learning Go Lang
+🔭 I’m currently working on Backend Projects<br>👯 I’m looking to collaborate on projects that requires MERN, PERN stack developers<br>🌱 I’m currently learning Go Lang
 
 
 ## 🌐 Socials:
